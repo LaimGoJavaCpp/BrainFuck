@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Interpritator">
+      <UniqueIdentifier>{bad9f8a4-e4f1-43d3-804d-9f1d54b77848}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Interpritator.cpp">
+      <Filter>Interpritator</Filter>
+    </ClCompile>
+    <ClCompile Include="LangFusk.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Interpritator.h">
+      <Filter>Interpritator</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
